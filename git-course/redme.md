@@ -1,3 +1,3 @@
-# Git and Githum Course
+# Git and Github Course
 
 Crach course for Git
